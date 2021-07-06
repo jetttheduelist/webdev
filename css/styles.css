@@ -1,0 +1,25 @@
+.cropped1 {
+  width: 200px; /* width of container */
+  height: 200px; /* height of container */
+
+  border-style: none;
+}
+
+.dotted{
+  border-style : dotted none none;
+  width : 7%;
+  border-color : grey;
+  border-width : 8px;
+}
+h3{
+  color : black;
+  font-style : italic;
+  font-family: Arial, sans-serif;
+}
+body {
+  text-align: center;
+  color : #053742;
+  font-family: Monaco, monospace;
+
+  background-color : #B5EAEA;
+}
